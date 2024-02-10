@@ -9,5 +9,5 @@ Allows you to keep your account status as streaming. It also allows you to set a
 
 > ⭐ Feel free to Star the Repository if this helped you! ;)
 >                                                                                
-> Streaming-24-7-RPC by mrnekrozyt is licensed under Attribution 4.0 International
+> Streaming-24-7-RPC by Laneur is licensed under Attribution 4.0 International
 
